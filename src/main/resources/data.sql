@@ -1,3 +1,13 @@
+CREATE TABLE supplier (
+    supplier_id UUID PRIMARY KEY,
+    company_name VARCHAR(255),
+    website VARCHAR(255),
+    location VARCHAR(255),
+    nature_of_business VARCHAR(255),
+    manufacturing_processes VARCHAR(255)
+);
+
+
 -- Insert records into the supplier table
 INSERT INTO supplier (company_name, website, location, nature_of_business, manufacturing_processes) VALUES 
 ('ABC Manufacturing', 'http://abc.com', 'New York', 'SMALL_SCALE', 'MOULDING,3D_PRINTING'),
