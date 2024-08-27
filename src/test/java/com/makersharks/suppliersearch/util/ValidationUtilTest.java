@@ -1,4 +1,4 @@
-package com.makersharks.suppliersearch;
+package com.makersharks.suppliersearch.util;
 
 // import com.makersharks.suppliersearch.util.ValidationUtil;
 // import org.junit.jupiter.api.Test;

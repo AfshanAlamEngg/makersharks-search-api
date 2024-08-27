@@ -1,4 +1,4 @@
-package com.makersharks.suppliersearch;
+package com.makersharks.suppliersearch.exception;
 
 import com.makersharks.suppliersearch.exception.ResourceNotFoundException;
 import org.junit.jupiter.api.Test;

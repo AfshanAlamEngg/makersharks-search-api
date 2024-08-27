@@ -1,4 +1,4 @@
-package com.makersharks.suppliersearch;
+package com.makersharks.suppliersearch.dto;
 
 import org.junit.jupiter.api.Test;
 

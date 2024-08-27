@@ -1,4 +1,4 @@
-package com.makersharks.suppliersearch;
+package com.makersharks.suppliersearch.repository;
 
 import com.makersharks.suppliersearch.model.Supplier;
 import com.makersharks.suppliersearch.repository.SupplierRepository;
@@ -7,8 +7,8 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
 
-import java.util.Optional;
-import java.util.UUID;
+// import java.util.Optional;
+// import java.util.UUID;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
