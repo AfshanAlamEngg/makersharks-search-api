@@ -20,6 +20,15 @@ This API allows users to search for suppliers based on specific criteria such as
 
 ## Running the Application
 
+To setup the application on your local machine, run the following command:
+
+```bash
+git clone https://github.com/AfshanAlamEngg/makersharks-search-api.git
+
+cd makersharks-search-api/
+```
+
+
 To run the application locally, use the following command:
 
 ```bash
